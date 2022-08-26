@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth }  from 'firebase/auth'
 import { getFirestore }  from 'firebase/firestore/lite'
 import { getAnalytics } from "firebase/analytics";
-import { getEnvironments } from "../helpers/getEnvironments";
+// import { getEnvironments } from "../helpers/getEnvironments";
 
 // const VITE_APIKEY = "AIzaSyD_ASiSC7GQMrx4VWMouthiEcUtT_gQe4I";
 // const VITE_AUTHDOMAIN = "react-curss.firebaseapp.com";
